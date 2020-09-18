@@ -14,8 +14,28 @@ Add some explanations here
 
 Code block example
 =============================================
-   print('hello world')
-   >> hello world
+
+Python script
+.. code-block:: python
+
+   print("hello world")
+   >>hello world
+
+c and c++ code with line number
+.. code-block:: c
+   printf("hello c world")
+
+Shell script example
+.. code-block:: shell-session
+
+   sudo apt-get update
+   sudo apt-get install build-essential
+
+This is an example for highlighting a path ``~/workspace/dds``.
+
+`External link <https://github.com/DynamicDeepSKY/astroid_all>`_
+
+
 
 Guide
 ^^^^^
