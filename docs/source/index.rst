@@ -3,14 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DDS documentation's documentation!
+Welcome to DDS's documentation!
 =============================================
+
+Header 2
+=============================================
+Add some explanations here
+
+
+
+Code block example
+=============================================
+   print('hello world')
+   >> hello world
+
+Guide
+^^^^^
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
+   license
+   help
 
 Indices and tables
 ==================
