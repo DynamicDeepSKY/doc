@@ -6,50 +6,50 @@
 Welcome to DDS's documentation!
 =============================================
 
-Header 2
-=============================================
-Add some explanations here
-
-
 
 Code block example
-=============================================
+------------------
 
-Python script
+This section will be deleted or hidden later on but just help you guide how to use code block in Sphinx so that we can effectively visualise code/shell commands or etc. 
 
-.. code-block:: python
-
-   print("hello world")
-   >>hello world
-
-c and c++ code with line number
-
-.. code-block:: c
-   :linenos:
-
-   int main (int argc, char *argv) {
-      printf("hello c world");
-      return 0;
-   }
-
-Shell script example
-
-.. code-block:: shell-session
-
-   sudo apt-get update
-   sudo apt-get install build-essential
-
-This is an example for highlighting a path ``~/workspace/dds``.
-
-`External link <https://github.com/DynamicDeepSKY/astroid_all>`_
-
-
-
-Guide
-^^^^^
+* **Getting started**:
+  :doc:`/code-block-examples`
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
+   :caption: Code block example
+
+   /code-block-examples
+
+Sub-menu examples
+-----------------
+This is a simple example how to create sub menus. When you create a sub menu, please follow the file name convention such that ``subMenuXX`` where ``XX`` indicates the sequence number of sub-menu. In addition, you can place a newly created sub menu file (e.g., ``subMenu03.rst``) under ``docs/source/subMenu``.
+
+* **Sub-menu**:
+  :doc:`/subMenu/subMenu01` |
+  :doc:`/subMenu/subMenu02` 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Sub Menus
+
+   /subMenu/subMenu01
+   /subMenu/subMenu02
+
+Contacts
+--------
+If you have any questions in related to this project, please let us know. 
+
+* **Contact**:
+  :doc:`/contacts/license` |
+  :doc:`/contacts/help` 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Contact
 
    license
    help
