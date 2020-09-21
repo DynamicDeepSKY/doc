@@ -16,16 +16,24 @@ Code block example
 =============================================
 
 Python script
+
 .. code-block:: python
 
    print("hello world")
    >>hello world
 
 c and c++ code with line number
+
 .. code-block:: c
-   printf("hello c world")
+   :linenos:
+
+   int main (int argc, char *argv) {
+      printf("hello c world");
+      return 0;
+   }
 
 Shell script example
+
 .. code-block:: shell-session
 
    sudo apt-get update
