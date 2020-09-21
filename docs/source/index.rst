@@ -51,8 +51,8 @@ If you have any questions in related to this project, please let us know.
    :hidden:
    :caption: Contact
 
-   license
-   help
+   /contacts/license
+   /contacts/help
 
 Indices and tables
 ==================
