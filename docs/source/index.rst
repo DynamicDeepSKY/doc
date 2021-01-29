@@ -18,6 +18,7 @@ Smart Night Vision (SNV) Kit documentation
    install
    hardware
    software
+   python-usage
 
 .. include:: ./contacts.rst
 .. include:: ./changes.rst

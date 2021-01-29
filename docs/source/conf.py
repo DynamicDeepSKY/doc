@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Smart Night Vision Kit documentation'
+project = 'Smart Night Vision (SNV) Kit documentation'
 copyright = '2021, DDS'
 author = 'DDS'
 
