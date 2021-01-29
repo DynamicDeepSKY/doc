@@ -37,6 +37,7 @@ This is a simple example how to create sub menus. When you create a sub menu, pl
 
    /subMenu/subMenu01
    /subMenu/subMenu02
+   intro
 
 Contacts
 --------
