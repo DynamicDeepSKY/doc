@@ -6,6 +6,10 @@
 Welcome to DDS's documentation!
 =============================================
 
+.. image:: https://readthedocs.org/projects/dds-documentation/badge/?version=latest
+:target: https://dds-documentation.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
+
 
 Code block example
 ------------------
