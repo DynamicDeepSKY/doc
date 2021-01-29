@@ -18,27 +18,6 @@ Smart Night Vision (SNV) Kit documentation
    install
    hardware
    software
-   python-usage
-   upgrade
-   api-documentation
-   troubleshooting
-   references
-
-.. Contacts
-.. --------
-.. If you have any questions in related to this project, please let us know. 
-
-.. * **Contact**:
-..   :doc:`/contacts/license` |
-..   :doc:`/contacts/help` 
-
-.. .. toctree::
-..    :maxdepth: 2
-..    :hidden:
-..    :caption: Contact
-
-..    /contacts/license
-..    /contacts/help
 
 .. include:: ./contacts.rst
 .. include:: ./changes.rst
