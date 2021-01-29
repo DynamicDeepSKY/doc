@@ -1,6 +1,12 @@
 Introduction
 ============
-Smart Night Vision (SNV) Kit for Rasberry Pi aims for providing easy-to-use and cost-effective a night vision module for Rasberry Pi 3 or 4 modules. It comes with a camera module (`Sony IMX327 Starvis <https://www.sony-semicon.co.jp/products/common/pdf/IMX327LQR_LQR1_Flyer02.pdf>` image sensor), Rasbian compatibel MIPI device driver, and abundant c++ or python based examples which will help you to rapidly get on working for your project.
+Smart Night Vision (SNV) Kit for Rasberry Pi aims for providing easy-to-use and cost-effective a night vision module for Rasberry Pi 3 or 4 modules. It comes with a camera module (`Sony IMX327 Starvis <https://www.sony-semicon.co.jp/products/common/pdf/IMX327LQR_LQR1_Flyer02.pdf>`_ image sensor), a Rasbian compatible MIPI device driver, and abundant C++ and python based examples which will help you to get on working for your project rapidly.
+
+`Link text <link URL>`_
+
+
+`OLED matrix displays
+<https://github.com/rm-hull/luma.oled/wiki/Usage-&-Benchmarking>`_
 
 .. image:: images/camera-housing.png
    :alt: mounted
@@ -12,3 +18,5 @@ Smart Night Vision (SNV) Kit for Rasberry Pi aims for providing easy-to-use and 
 .. seealso::
    Further technical information of the SNV kit can be found in the following datasheets:
    - :download:`IMX327 Datasheet <datasheets/framos-imx327.pdf>`
+
+git repository:
